@@ -1,5 +1,5 @@
 # Change these first
-owner: sebastiangollob
+owner: kochge
 repo: uptime-monitor
 
 sites:
@@ -7,13 +7,17 @@ sites:
     url: https://ascii.ist.tugraz.at
   - name: Infisical
     url: https://secrets.quantix-core.com
+  - name: SHARE
+    url: https://share.catrob.at/
+  - name: JENKINS
+    url: https://jenkins.catrob.at/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.gollob.dev
+#  cname: status.gollob.dev
   theme: dark
-  # baseUrl: /your-repo-name
+  baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Server Statuses
   navbar:
