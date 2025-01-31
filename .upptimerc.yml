@@ -5,6 +5,8 @@ repo: uptime-monitor
 sites:
   - name: ASCII
     url: https://ascii.ist.tugraz.at
+  - name: ASCII, PNG only
+    url: https://ascii.ist.tugraz.at/images/pages/404.png
   - name: Infisical
     url: https://secrets.quantix-core.com
   - name: SHARE
