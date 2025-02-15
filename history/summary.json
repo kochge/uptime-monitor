@@ -13,7 +13,7 @@
     "time": 2286,
     "timeDay": 2787,
     "timeWeek": 2048,
-    "timeMonth": 3081,
+    "timeMonth": 2999,
     "timeYear": 2338,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://share.catrob.at",
     "icon": "https://icons.duckduckgo.com/ip3/share.catrob.at.ico",
     "slug": "share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2154,
     "timeDay": 1127,
-    "timeWeek": 931,
+    "timeWeek": 942,
     "timeMonth": 2154,
     "timeYear": 2154,
     "dailyMinutesDown": {}
