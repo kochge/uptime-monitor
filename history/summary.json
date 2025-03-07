@@ -58,7 +58,7 @@
     "url": "https://share.catrob.at",
     "icon": "https://icons.duckduckgo.com/ip3/share.catrob.at.ico",
     "slug": "share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 1882,
     "timeDay": 942,
-    "timeWeek": 1972,
+    "timeWeek": 2058,
     "timeMonth": 1347,
     "timeYear": 1882,
     "dailyMinutesDown": {}
