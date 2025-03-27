@@ -14,7 +14,7 @@
     "timeDay": 2205,
     "timeWeek": 1778,
     "timeMonth": 1952,
-    "timeYear": 2332,
+    "timeYear": 2334,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://secrets.quantix-core.com",
     "icon": "https://icons.duckduckgo.com/ip3/secrets.quantix-core.com.ico",
     "slug": "infisical",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 468,
-    "timeWeek": 430,
-    "timeMonth": 407,
-    "timeYear": 416,
+    "time": 418,
+    "timeDay": 497,
+    "timeWeek": 439,
+    "timeMonth": 411,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 1703,
     "timeDay": 783,
     "timeWeek": 881,
-    "timeMonth": 1433,
+    "timeMonth": 1444,
     "timeYear": 1703,
     "dailyMinutesDown": {}
   },
