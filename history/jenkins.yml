@@ -1,7 +1,7 @@
 url: https://jenkins.catrob.at
-status: down
-code: 502
-responseTime: 19538
-lastUpdated: 2025-07-24T16:44:22.146Z
+status: up
+code: 200
+responseTime: 632
+lastUpdated: 2025-07-24T17:01:48.692Z
 startTime: 2025-01-28T10:06:10.395Z
 generator: Upptime <https://github.com/upptime/upptime>
