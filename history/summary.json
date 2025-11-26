@@ -76,17 +76,17 @@
     "url": "https://jenkins.catrob.at",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.catrob.at.ico",
     "slug": "jenkins",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 823,
-    "timeWeek": 831,
-    "timeMonth": 926,
-    "timeYear": 937,
+    "time": 1018,
+    "timeDay": 9756,
+    "timeWeek": 3808,
+    "timeMonth": 1610,
+    "timeYear": 1018,
     "dailyMinutesDown": {}
   }
 ]
